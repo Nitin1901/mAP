@@ -1,8 +1,6 @@
 
 # mAP (mean Average Precision)
 
-[![GitHub stars](https://img.shields.io/github/stars/Cartucho/mAP.svg?style=social&label=Stars)](https://github.com/Cartucho/mAP)
-
 This code will evaluate the performance of your neural net for object recognition.
 
 <p align="center">
