@@ -9,14 +9,6 @@ This code will evaluate the performance of your neural net for object recognitio
 
 In practice, a **higher mAP** value indicates a **better performance** of your neural net, given your ground-truth and set of classes.
 
-## Table of contents
-
-- [Explanation](#explanation)
-- [Prerequisites](#prerequisites)
-- [Quick start](#quick-start)
-- [Running the code](#running-the-code)
-- [Authors](#authors)
-
 ## Explanation
 The performance of your neural net will be judged using the mAP criterium defined in the [PASCAL VOC 2012 competition](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/). We simply adapted the [official Matlab code](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit) into Python (in our tests they both give the same results).
 
