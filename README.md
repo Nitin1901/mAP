@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mAP (mean Average Precision)
 
 [![GitHub stars](https://img.shields.io/github/stars/Cartucho/mAP.svg?style=social&label=Stars)](https://github.com/Cartucho/mAP)
@@ -143,3 +144,7 @@ In the [scripts/extra](https://github.com/Cartucho/mAP/tree/master/scripts/extra
     Feel free to contribute
 
     [![GitHub contributors](https://img.shields.io/github/contributors/Cartucho/mAP.svg)](https://github.com/Cartucho/mAP/graphs/contributors)
+=======
+# mAP
+calculate mAP for object detection
+>>>>>>> 690e3c5f95e5ac3f25efc89f81384b737ff049af
