@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mAP (mean Average Precision)
 
 [![GitHub stars](https://img.shields.io/github/stars/Cartucho/mAP.svg?style=social&label=Stars)](https://github.com/Cartucho/mAP)
@@ -10,20 +10,6 @@ This code will evaluate the performance of your neural net for object recognitio
 </p>
 
 In practice, a **higher mAP** value indicates a **better performance** of your neural net, given your ground-truth and set of classes.
-
-## Citation
-
-This project was developed for the following paper, please consider citing it:
-
-```bibtex
-@INPROCEEDINGS{8594067,
-  author={J. {Cartucho} and R. {Ventura} and M. {Veloso}},
-  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-  title={Robust Object Recognition Through Symbiotic Deep Learning In Mobile Robots}, 
-  year={2018},
-  pages={2336-2341},
-}
-```
 
 ## Table of contents
 
@@ -138,13 +124,3 @@ In the [scripts/extra](https://github.com/Cartucho/mAP/tree/master/scripts/extra
     chair 0.292345 0 199 88 436
     book 0.269833 433 260 506 336
     ```
-## Authors:
-* **João Cartucho**
-
-    Feel free to contribute
-
-    [![GitHub contributors](https://img.shields.io/github/contributors/Cartucho/mAP.svg)](https://github.com/Cartucho/mAP/graphs/contributors)
-=======
-# mAP
-calculate mAP for object detection
->>>>>>> 690e3c5f95e5ac3f25efc89f81384b737ff049af
