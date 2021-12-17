@@ -728,7 +728,6 @@ with open(output_files_path + "/output.txt", 'w') as output_file:
     text = "mAP = {0:.2f}%".format(mAP*100)
     output_file.write(text + "\n")
     print(text)
-    return mAP
 
 """
  Draw false negatives
